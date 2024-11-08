@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi there, I'm Shaina Nawaz! 👋
 
+🔹 **About Me:**  
+I'm a Computer Science Engineering student passionate about web development, open-source, and building impactful projects.
+
+🔹 **Skills:**  
+- Frontend: HTML, CSS, JavaScript  
+- Languages: C, C++, Python  
 <!--
 **shaina123786/shaina123786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
