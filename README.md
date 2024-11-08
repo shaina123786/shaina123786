@@ -25,3 +25,10 @@ I'm a Computer Science Engineering student passionate about web development, ope
    
   </a>
 </p>
+## My Holopin Badge
+<p align="center">
+  <a href="https://www.holopin.io/userbadge/cm1llz8e4131260cmno0u2h09v">
+    <img src="https://www.holopin.io/api/userbadge/cm1llz8e4131260cmno0u2h09v" alt="Holopin Badge" width="100px" height="100px">
+  </a>
+</p>
+
