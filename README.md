@@ -1,5 +1,6 @@
-# Hi there, I'm Shaina Nawaz! 👋
-Linkdin-https://www.linkedin.com/in/shaina-nawaz-385409240?
+      # Hi there, I'm Shaina Nawaz! 👋
+[Portfolio](#) - [LinkedIn](#) - [Twitter](#) - [Website](#) - [Contact me](#)
+---
 
 🔹 **About Me:**  
 I'm a Computer Science Engineering student passionate about web development, open-source, and building impactful projects.
