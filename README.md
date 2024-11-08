@@ -5,7 +5,8 @@
 </p>
 
 -----------------------------------------------------------
-🔹 **About Me:**  
+🔹  👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
 I'm a Computer Science Engineering student passionate about web development, open-source, and building impactful projects.
 
 🔹 **Skills:**  
