@@ -26,10 +26,20 @@ I'm a Computer Science Engineering student passionate about web development, ope
   </a>
 </p>
 <hr>
-<br>
+<!-- <br>
 [![An image of @shaina123786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaina123786)]
 (https://holopin.io/@shaina123786)
+ -->
+<hr>
 
+## My Holopin Badge
+<p align="center">
+  <a href="https://holopin.io/@shaina123786">
+    <img src="https://holopin.me/shaina123786" alt="Holopin Badge" width="100px" height="100px">
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
