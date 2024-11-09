@@ -27,6 +27,7 @@ I'm a Computer Science Engineering student passionate about web development, ope
 </p>
 <hr>
 <br>
-[![An image of @shaina123786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaina123786)](https://holopin.io/@shaina123786)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- [![An image of @shaina123786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaina123786)](https://holopin.io/@shaina123786)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
+[![An image of @myselfshivams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myselfshivams)](https://holopin.io/@myselfshivams)
