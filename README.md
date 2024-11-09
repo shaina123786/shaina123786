@@ -13,49 +13,25 @@ I'm a Computer Science Engineering student passionate about web development, ope
 - Frontend: HTML, CSS, JavaScript  
 - Languages: C, C++, Python 
 
+
 ## GSSOC(24) Badges 🪶
-<p align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-   
-  </a>
-</p>
-<hr>
-<!-- <br>
-[![An image of @shaina123786's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaina123786)]
-(https://holopin.io/@shaina123786)
- -->
-<hr>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 
-## Hacktoberfest Badges 🎉
-
-<p align="center" style="background-color: #2C2F33; padding: 20px; border-radius: 10px;">
-  <a href="https://holopin.io/@shaina123786">
-    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 1" width="180px" height="180px" />
   </a>
-  <a href="https://holopin.io/@shaina123786">
-    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 2" width="180px" height="180px" />
-  </a>
-  <a href="https://holopin.io/@shaina123786">
-    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 3" width="180px" height="180px" />
-  </a>
-  <a href="https://holopin.io/@shaina123786">
-    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 4" width="180px" height="180px" />
-  </a>
-  <a href="https://holopin.io/@shaina123786">
-    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 5" width="180px" height="180px" />
-  </a>
-</p>
+</div>
 
 <hr>
+<br>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
+
+[![An image of @myselfshivams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myselfshivams)](https://holopin.io/@myselfshivams)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
