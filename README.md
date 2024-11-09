@@ -13,7 +13,7 @@ I'm a Computer Science Engineering student passionate about web development, ope
 - Frontend: HTML, CSS, JavaScript  
 - Languages: C, C++, Python 
 
-<br>
+
 ## GSSOC(24) Badges 🪶
 <p align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
