@@ -32,14 +32,30 @@ I'm a Computer Science Engineering student passionate about web development, ope
  -->
 <hr>
 
-## My Holopin Badge
-<p align="center">
+## Hacktoberfest Badges 🎉
+
+<p align="center" style="background-color: #2C2F33; padding: 20px; border-radius: 10px;">
   <a href="https://holopin.io/@shaina123786">
-    <img src="https://holopin.me/shaina123786" alt="Holopin Badge" width="100px" height="100px">
+    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 1" width="180px" height="180px" />
+  </a>
+  <a href="https://holopin.io/@shaina123786">
+    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 2" width="180px" height="180px" />
+  </a>
+  <a href="https://holopin.io/@shaina123786">
+    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 3" width="180px" height="180px" />
+  </a>
+  <a href="https://holopin.io/@shaina123786">
+    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 4" width="180px" height="180px" />
+  </a>
+  <a href="https://holopin.io/@shaina123786">
+    <img src="https://holopin.me/shaina123786" alt="Hacktoberfest Badge 5" width="180px" height="180px" />
   </a>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<hr>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
