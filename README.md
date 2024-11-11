@@ -8,6 +8,7 @@
 🔹  👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 I'm a Computer Science Engineering student with a strong foundation in Data Structures and Algorithms (DSA), problem-solving, and web development. I’m passionate about contributing to open-source, building impactful projects, and tackling complex challenges. My goal is to create efficient, user-focused solutions through both individual and collaborative work.<br>
+
 🔹 **Skills:**  
 -Frontend: HTML, CSS, JavaScript
 
