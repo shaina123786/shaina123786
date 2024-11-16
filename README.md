@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi there  <a href="https://www.linkedin.com/in/shaina-nawaz-385409240">  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Shaina Nawaz</h1>
-<h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
+<h1 align="center">Hi there    <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Shaina Nawaz</h1>
+<p align="center">
+<!--   <a href="https://shaina123786.github.io/Portfolio/">Portfolio</a> - -->
+  <a href="https://www.linkedin.com/in/shaina-nawaz-385409240">LinkedIn</a>
+</p>
+<!-- <h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3> -->
 
 <br/>
 
