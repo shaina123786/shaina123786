@@ -4,10 +4,10 @@
 <!--   <a href="https://shaina123786.github.io/Portfolio/">Portfolio</a> - -->
   <a href="https://www.linkedin.com/in/shaina-nawaz-385409240">LinkedIn</a>
 </p>
-</br>
+
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-
+<br>
 
 - 🔭 I’m currently working as *Open Source Contributor*
 
