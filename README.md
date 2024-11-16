@@ -6,8 +6,17 @@
 </p>
 <!-- <h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3> -->
 
-<br/>
 
+
+- 🔭 I’m currently working as *Open Source Contributor*
+
+- 🌱 I’m currently learning **Backend Development | 
+
+
+
+- 🌎 I know **English, Hindi, Marathi, and Turkish.**
+
+- 📍 From **India**
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 🔹 **Skills:**  
 -Frontend: HTML, CSS, JavaScript
