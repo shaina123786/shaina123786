@@ -1,14 +1,10 @@
-  <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/shaina-nawaz-385409240"> Shaina!👋</a> </h1>
-<p align="center">
-<!--   <a href="https://shaina123786.github.io/Portfolio/">Portfolio</a> - -->
-  <a href="https://www.linkedin.com/in/shaina-nawaz-385409240">LinkedIn</a>
-</p>
 
------------------------------------------------------------
-🔹  👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Shaina Nawaz</h1>
+<h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
-I'm a Computer Science Engineering student with a strong foundation in Data Structures and Algorithms (DSA), problem-solving, and web development. I’m passionate about contributing to open-source, building impactful projects, and tackling complex challenges. My goal is to create efficient, user-focused solutions through both individual and collaborative work.<br>
+<br/>
 
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 🔹 **Skills:**  
 -Frontend: HTML, CSS, JavaScript
 
