@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working as *Open Source Contributor*
 
-- 🌱 I’m currently learning **Backend Development | 
+- 🌱 I’m currently learning **Backend Development** | 
 
 - 🌎 I know **English, Hindi**
 
