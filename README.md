@@ -1,6 +1,6 @@
 
 <h1 align="center">  Hi there, I'm <a href="https://www.linkedin.com/in/shaina-nawaz-385409240">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  Shaina Nawaz</h1>
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  Shaina Nawaz </a></h1>
 <p align="center">
 <!--   <a href="https://shaina123786.github.io/Portfolio/">Portfolio</a> - -->
   <a href="https://www.linkedin.com/in/shaina-nawaz-385409240">LinkedIn</a>
