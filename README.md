@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Hi there, I'm 
   <a href="https://www.linkedin.com/in/shaina-nawaz-385409240">
@@ -18,7 +17,7 @@
 
 - 🔭 I’m currently working as **Open Source Contributor**
 
-- 🌱 I’m a **Full Stack Developer** | 
+- 🌱 I’m a **Full Stack Developer**  
 
 - 🌎 I know **English, Hindi**
 
